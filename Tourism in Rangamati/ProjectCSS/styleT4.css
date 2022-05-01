@@ -1,0 +1,19 @@
+input{
+	width:500px;
+	height:30px;
+	padding:5px;
+	border:1px solid blue;
+	color:darkmagenta;
+}
+input[type="message"]{
+	width:500px;
+	height:250px;
+}
+button[type="send email"]{
+	width:100px;
+	height:50px;
+	border:1px solid red;
+	color:white;
+	background-color:blue;
+	
+}

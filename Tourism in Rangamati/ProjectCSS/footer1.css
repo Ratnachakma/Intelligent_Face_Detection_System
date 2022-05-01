@@ -1,0 +1,55 @@
+/* navigation starts from here */
+#nav{
+	border:1px solid blue;
+	padding:10px;
+	margin:8px 0px;
+    background-color:blue;
+	
+}
+#nav ul li{
+	list-style-type:none;
+	display:inline;
+
+}
+#nav ul li a{
+	margin:10px;
+	color:white;
+	text-decoration:none;
+	background-color:hotpink;
+	padding:10px 10px;
+}
+#nav ul li a:hover{
+	background-color:orange;
+	color:indigo;
+	
+	
+}
+nav ul li a:active{
+	background-color:maroon;
+	
+}
+/* navigation ends from here */
+
+#footer{
+	border:1px solid blue;
+	padding:20px;
+	text-align:;
+	clear:left;
+	background-color:darkgray;
+	
+}
+#footer nav ul{
+	list-style-type:none;
+
+}
+#footer nav ul li{
+	display:inline;
+}
+#footer nav ul li a{
+	margin:50px;
+	padding:10px;
+}
+#footer nav ul li a:hover{
+	background-color:yellow;
+	color:green;
+}

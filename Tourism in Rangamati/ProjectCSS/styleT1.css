@@ -1,0 +1,169 @@
+*{
+	margin:0px;
+	padding:0px;
+}
+body{
+	font-family:sans-sarif;
+	text-align:center;
+}
+/* centering the website */
+#center_maker{
+	width:auto;
+	margin:0px auto; /* center the body perfectly */
+	
+	text-align:left;
+	
+}
+/* header starts from here */
+
+#header{
+	border:1px solid blue;
+	padding:20px;
+	margin:5px 0px;
+        background-color:skyblue;
+}
+.seen1{
+	display:inline;
+	vertical-align:middle;
+}
+header h1{
+	display:inline;
+	
+}
+
+
+
+
+/* header ends from here */
+
+/* navigation starts from here */
+#nav{
+	border:1px solid blue;
+	padding:20px;
+	margin:10px 0px;
+    background-color:blue;
+	
+}
+#nav ul li{
+	list-style-type:none;
+	display:inline;
+	
+	
+
+}
+#nav ul li a{
+	margin:40px;
+	color:white;
+	text-decoration:none;
+	background-color:hotpink;
+	padding:10px 10px;
+	
+	
+}
+#nav ul li a:hover{
+	background-color:khaki;
+	color:darkblue;
+	
+	
+}
+#nav ul li a:active{
+	background-color:deepskyblue;
+        color:red;
+	
+}
+/* navigation ends from here */
+
+/* aside starts from here */
+#aside{
+   width:251px;
+   border:1px solid blue; /* left & right -4 */
+   padding:10px; /* l to r -20 */
+   float:left;
+   background-color:lightpink;
+   
+  
+  
+}
+#aside content p a{
+	text-decoration:none;
+}
+.sajek{
+	display:inline;
+	vertical-align:middle;
+	
+	
+}
+
+#aside content p{
+	display:inline;
+	font-size:4;
+   
+}
+#aside content p a:hover{
+	background-color:lawngreen;
+	color:maroon;
+}
+.porjoton{
+	display:inline;
+	vertical-align:middle;
+}
+.bihar{
+	display:inline;
+	vertical-align:middle;
+}
+.jorna{
+	display:inline;
+	vertical-align:middle;
+	
+}
+
+.lake{
+	display:inline;
+	vertical-align:middle;
+}
+
+
+
+
+
+/* aside ends from here */
+
+
+/* section starts from here */
+#section{
+	width:1200px;
+	height:400px;
+	padding:10px; /* l to r -20*/
+	margin:0px 0px 10px 10px; /* only r -10*/
+	border:2px solid blue; /* l to r -4*/
+	float:left;
+	background-color:aqua;
+}
+
+
+/* section ends from here */
+
+#footer{
+	border:1px solid blue;
+	padding:20px;
+	text-align:;
+	clear:left;
+	background-color:darkgray;
+	
+}
+#footer nav ul{
+	list-style-type:none;
+
+}
+#footer nav ul li{
+	display:inline;
+	
+}
+#footer nav ul li a{
+	margin:60px;
+	padding:10px;
+}
+#footer nav ul li a:hover{
+	background-color:yellow;
+	color:green;
+}

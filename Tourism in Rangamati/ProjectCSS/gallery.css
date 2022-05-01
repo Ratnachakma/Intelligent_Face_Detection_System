@@ -1,0 +1,14 @@
+body{
+	font-family:sans-serif;
+}
+h1{
+	text-align:center;
+	color:crimson;
+	margin:30px 50px;
+}
+.gallery{
+	margin:10px 50px;
+}
+.gallery img{
+	padding:2px;
+}

@@ -1,0 +1,6 @@
+This is a project about Hospital management system which is developed by using php,HTML, CSS, Bootstrap.
+It can be run by xampp or wampp server.
+
+To log in:
+User id : admin
+Password : admin123  
